@@ -2,7 +2,7 @@
   "livePrice": [{
     "regex1": "livePrice.*?data-value=\\\"(\\d+\\.\\d+)\\\"",
     "regex2": "(?<=data-value=\\\")(\\d+\\.\\d+)"
-  }]
+  }],
   "Open": [{
     "regex1": "Open.*?data-value=\\\"(\\d+\\.\\d+)\\\"",
     "regex2": "(?<=data-value=\\\")\\d+\\.\\d+"
